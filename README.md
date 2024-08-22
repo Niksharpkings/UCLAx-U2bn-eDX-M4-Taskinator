@@ -57,7 +57,10 @@ Full-Stack Web Development Coding Boot Camp Program:
 > * Explain and identify the document object and its relationship to HTML.
 > * Use DOM API methods to handle button clicks.
 
-## Requirements
+
+# To-Do:
+
+## Requirements | Stage 1
 
 * Create the task tracking HTML page that needs a:
   * Header
@@ -68,14 +71,14 @@ Full-Stack Web Development Coding Boot Camp Program:
 
 Title: Capture Form Data
 
-## Requirements
+## Requirements | Stage 2
 
 * Create a form to add tasks
 * Add error handling
 
 Title: Change Task
 
-## Requirements
+## Requirements | Stage 3
 
 * Add two status task lists
 * Add buttons to change tasks
@@ -86,7 +89,7 @@ Title: Change Task
 
 Title: Add persistence and optimization
 
-## Requirements
+## Requirements | Stage 4
 
 * Use localStorage to save tasks
 * Refactor code
@@ -96,3 +99,5 @@ Title: Add persistence and optimization
 v1.0.0 - | Added all the basic github files and my own. Readme update.
 
 v1.0.1 - | Renamed Repo Project from UCLAx-U2bn-eDX-M3-Taskinator to UCLAx-U2bn-eDX-M4-Taskinator, oops. Added some additional content.
+
+V1.0.2 - | Stage 1 - Complete

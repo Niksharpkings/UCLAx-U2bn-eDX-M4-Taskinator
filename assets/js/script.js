@@ -1,5 +1,5 @@
 let formEl = document.querySelector("#task-form");
-console.log(buttonEl);
+
 let tasksToDoEl = document.querySelector("#tasks-to-do");
 
 let createTaskHandler = function() {
