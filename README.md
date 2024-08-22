@@ -1,8 +1,8 @@
-# UCLAx-U2bn-eDX-M3-Taskinator v2 (Modified)
+# UCLAx-U2bn-eDX-M4-Taskinator v2 (Modified)
 
 # Project Name: `Taskinator v2 (Modified)`
 
-## GitHub Repo Name: `UCLAx-U2bn-eDX-M3-Taskinator`
+## GitHub Repo Name: `UCLAx-U2bn-eDX-M4-Taskinator`
 
 (A UCLAx+U2bn+eDX Project) A kanban board task-tracker application called the Taskinator with my own custom touches
 
@@ -28,11 +28,11 @@ Full-Stack Web Development Coding Boot Camp Program:
 
 #### Live Deployed Website Link (Not Up Yet):
 
-[Hosted by GitHub Pages - https://niksharpkings.github.io/UCLAx-U2bn-eDX-M3-Taskinator/](https://niksharpkings.github.io/UCLAx-U2bn-eDX-M3-Taskinator/)
+[Hosted by GitHub Pages - https://niksharpkings.github.io/UCLAx-U2bn-eDX-M4-Taskinator/](https://niksharpkings.github.io/UCLAx-U2bn-eDX-M4-Taskinator/)
 
 #### GitHub Repository Link:
 
-[GitHub Repo - https://github.com/Niksharpkings/UCLAx-U2bn-eDX-M3-Taskinator](https://github.com/Niksharpkings/UCLAx-U2bn-eDX-M3-Taskinator/)
+[GitHub Repo - https://github.com/Niksharpkings/UCLAx-U2bn-eDX-M4-Taskinator](https://github.com/Niksharpkings/UCLAx-U2bn-eDX-M4-Taskinator/)
 
 ---
 
