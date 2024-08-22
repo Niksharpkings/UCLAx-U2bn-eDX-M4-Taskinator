@@ -57,7 +57,6 @@ Full-Stack Web Development Coding Boot Camp Program:
 > * Explain and identify the document object and its relationship to HTML.
 > * Use DOM API methods to handle button clicks.
 
-
 # To-Do:
 
 ## Requirements | Stage 1
@@ -100,4 +99,6 @@ v1.0.0 - | Added all the basic github files and my own. Readme update.
 
 v1.0.1 - | Renamed Repo Project from UCLAx-U2bn-eDX-M3-Taskinator to UCLAx-U2bn-eDX-M4-Taskinator, oops. Added some additional content.
 
-V1.0.2 - | Stage 1 - Complete
+v1.0.2 - | Stage 1 - Completed
+
+v1.0.3 - | Stage 2 - Completed
