@@ -91,7 +91,8 @@ Title: Add persistence and optimization
 * Use localStorage to save tasks
 * Refactor code
 
-
 ## Versions
 
 v1.0.0 - | Added all the basic github files and my own. Readme update.
+
+v1.0.1 - | Renamed Repo Project from UCLAx-U2bn-eDX-M3-Taskinator to UCLAx-U2bn-eDX-M4-Taskinator, oops. Added some additional content.
